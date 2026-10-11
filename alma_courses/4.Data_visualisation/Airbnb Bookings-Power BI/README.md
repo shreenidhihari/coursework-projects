@@ -68,7 +68,7 @@ Airbnb booking dataset for Chicago & New Orleans is sourced from the [Airbnb Dat
 ## Dashboard Preview
 ![Dashboard]()
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/71fa25e5-64eb-4862-bfbd-3fba8ecd5a3c" />
+<img width="1280" height="720" alt="image" src="https://github.com/shreenidhihari/coursework-projects/blob/a12b6aef818ce7119ef77c63ed26d07c2c2a665a/alma_courses/4.Data_visualisation/Airbnb%20Bookings-Power%20BI/screenshot/Listings.png" />
 
 <br>
 
